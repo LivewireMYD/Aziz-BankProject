@@ -1,0 +1,20 @@
+Name: Mohamed Abdul Aziz
+Fathername: Leyakathalai
+Email: 10/06/200
+Aadhar: 560752693
+Accountno: 9943093556
+Address: elanthangudi
+: ultemateaziz64@gmail.com
+Accounttype: Saving Account
+Amount: 100
+
+Name: Mohamed Abdul Aziz
+Father's Name: no mention
+Date of Birth: 10/05/2005
+Aadhar Number: 269347562
+Phone Number: 4565212322
+Address: Ladak
+Email: testing@gmail.com
+Account Type: Saving Account
+Credit Amount: 1000
+
